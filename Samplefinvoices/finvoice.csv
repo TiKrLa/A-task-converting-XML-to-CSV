@@ -1,0 +1,35 @@
+BuyerPartyIdentifier,0836922-4
+BuyerOrganisationName,"Procountor International Oy"
+BuyerStreetName,"Keilaranta 8"
+BuyerTownName,ESPOO
+BuyerPostCodeIdentifier,02150
+CountryCode,FI
+DeliveryOrganisationName,"Procountor International Oy"
+DeliveryStreetName,"Keilaranta 8"
+DeliveryTownName,ESPOO
+DeliveryPostCodeIdentifier,02150
+CountryCode,FI
+InvoiceTypeCode,M
+InvoiceDate,20150129
+InvoiceTotalVatExcludedAmount,"2450,00"
+InvoiceTotalVatAmount,"563,50"
+InvoiceTotalVatIncludedAmount,"3013,50"
+InvoiceFreeText,"Asennuskulut veloitetaan erillisellï¿œ laskulla"
+InvoiceDueDate,20120905
+PaymentOverDueFinePercent,"10,5"
+ArticleIdentifier,X9000
+ArticleName,"Jura X9000 kahvikone"
+OrderedQuantity,1
+UnitPriceAmount,"2000,00"
+RowVatRatePercent,24
+RowVatAmount,"480,00"
+RowVatExcludedAmount,"2000,00"
+RowAmount,"2480,00"
+ArticleIdentifier,SA2
+ArticleName,"Premium Saula Cafe espressonapit"
+OrderedQuantity,1000
+UnitPriceAmount,"0,15"
+RowVatRatePercent,24
+RowVatAmount,"36,00"
+RowVatExcludedAmount,"150,00"
+RowAmount,"186,00"
