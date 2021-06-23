@@ -14,7 +14,7 @@ A task converting XML to CSV by using PHP, specifially for Finago Procountor sof
    * Open Visual Studio Code or whatever of your favorite editor, create XML code and save it as finvoice.xml in MAMP/htdocs/Finvoice folder. 
    * Open Visual Studio Code or whatever of your favorite editor, create PHP code and save it as xml_code.php in MAMP/htdocs/Finvoice folder. 
    
-Open your browser and type localhost/Invoice/xml_code.php path in address bar. 
+Open your browser and type localhost/Finvoice/xml_code.php path in address bar. 
 
 ![kuva](https://user-images.githubusercontent.com/56343426/121502358-c767db00-c9e8-11eb-81c4-d4ad4a6c114a.png)
 
